@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+
+# Entornos
+.venv/
+venv/
+.env
+.env.*
+
+# Notebooks
+.ipynb_checkpoints/
+
+# IDEs/editores
+.vscode/
+.idea/
+
+# Datos (ajusta a tu flujo)
+data/raw/
+data/interim/
